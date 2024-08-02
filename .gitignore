@@ -1,0 +1,9 @@
+venv
+__pycache__/
+analytics_data.json
+file_output.xlsx
+file_output_statistics.xlsx
+report iyul.xls
+report iyul.xlsx
+statistic.json
+
